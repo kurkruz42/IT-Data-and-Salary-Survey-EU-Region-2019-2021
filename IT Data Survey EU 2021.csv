@@ -1,0 +1,961 @@
+Age,Gender,City,Position,Years of Experience,Seniority level,Contract duration,Language,Size,Timestamp,,Salary
+33,Male,Berlin,Backend Developer,8,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,64000
+44,Male,Berlin,Other,15,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,55000
+28,Male,Berlin,ML Engineer,5,Middle,unlimited,English,up to 10,02.12.2021 11:18:26,,70000
+34,Female,Berlin,Other,10,Senior,unlimited,German,up to 10,02.12.2021 11:18:26,,63000
+26,Male,Munich,Software Engineer,5,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,66000
+26,Male,Berlin,Backend Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+28,Male,Berlin,Frontend Developer,4,Junior,unlimited,English,51-100,02.12.2021 11:18:26,,85000
+37,Male,Berlin,Backend Developer,17,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,81000
+32,Male,Berlin,DevOps,5,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,66000
+37,Male,Berlin,Frontend Developer,6,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+24,Male,Berlin,Frontend Developer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,63000
+29,Male,Berlin,Backend Developer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+35,Male,Berlin,Software Engineer,15,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,83000
+32,Female,Other,Other,2,Junior,unlimited,German,101-1000,02.12.2021 11:18:26,,66000
+34,Male,Berlin,Software Engineer,14,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+28,Male,Berlin,Other,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+31,Male,Other,Backend Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+29,Male,Other,Backend Developer,7,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,87000
+41,Male,Berlin,Product Manager,18,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,90000
+27,Male,Berlin,Backend Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+34,Male,Berlin,Mobile Developer,11,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+34,Male,Berlin,DevOps,13,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+34,Male,Berlin,Other,15,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,160000
+25,Male,Berlin,Software Engineer,5,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,75000
+59,Male,Berlin,Backend Developer,30,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,60000
+36,Male,Berlin,Software Engineer,17,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+38,Male,Berlin,Other,18,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+24,Male,Berlin,DevOps,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,85000
+37,Male,Berlin,Other,6,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,67000
+32,Male,Berlin,DevOps,14,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+40,Male,Berlin,Product Manager,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,78600
+29,Male,Berlin,Software Engineer,6,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+31,Male,Berlin,Backend Developer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+29,Female,Berlin,QA Engineer,7,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,60000
+39,Male,Berlin,Software Engineer,8,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,65000
+27,Male,Berlin,Software Engineer,8,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,58000
+33,Male,Berlin,Data Scientist,5,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+28,Female,Berlin,Other,7,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,190000
+30,Male,Berlin,Software Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,69000
+28,Male,Berlin,Backend Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+38,Male,Berlin,DevOps,10,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,67000
+29,Male,Berlin,Frontend Developer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+49,Male,Berlin,Software Engineer,15,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,70000
+33,Female,Berlin,Software Engineer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+30,Male,Berlin,Software Engineer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,85000
+48,Male,Berlin,Software Engineer,25,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+28,Female,Berlin,Other,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+32,Male,Berlin,Backend Developer,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+38,Female,Berlin,Backend Developer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,61000
+31,Male,Berlin,Software Engineer,7,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+35,Male,Berlin,Backend Developer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+28,Female,Berlin,Other,7,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,56600
+29,Female,Berlin,QA Engineer,8,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,81000
+32,Male,Berlin,Backend Developer,8,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+44,Male,Berlin,Backend Developer,12,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,80000
+35,Male,Munich,Software Engineer,11,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,72000
+33,Male,Munich,DevOps,15,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,61000
+29,Male,Berlin,Software Engineer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,61000
+66,Male,Munich,Software Engineer,40,Lead,unlimited,German,51-100,02.12.2021 11:18:26,,76000
+39,Female,Berlin,Software Engineer,10,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,75000
+28,Male,Munich,Backend Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+34,Male,Munich,Frontend Developer,5,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+34,Male,Munich,Software Engineer,13,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,60000
+32,Male,Munich,Frontend Developer,7,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,150000
+38,Male,Other,Other,15,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,66000
+32,Male,Berlin,Data Scientist,10,Head,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+45,Male,Other,Software Engineer,26,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,65000
+28,Male,Berlin,Software Engineer,3,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,50000
+29,Male,Other,Mobile Developer,6,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,78000
+36,Male,Munich,Backend Developer,15,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+39,Male,Berlin,Software Engineer,10,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,113000
+29,Male,Munich,Software Engineer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+31,Male,Berlin,Other,11,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,73000
+30,Male,Berlin,Backend Developer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+30,Male,Munich,DevOps,8,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,64000
+33,Male,Other,Software Engineer,4,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,58000
+27,Male,Berlin,Software Engineer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+26,Female,Munich,Data Scientist,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,96000
+26,Male,Berlin,Software Engineer,8,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+31,Female,Berlin,Other,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+30,Male,Berlin,Software Engineer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,115000
+38,Male,Berlin,Other,17,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+43,Male,Berlin,Mobile Developer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+33,Male,Berlin,Software Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,66000
+31,Male,Berlin,Software Engineer,9,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,72000
+32,Female,Berlin,QA Engineer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+24,Male,Berlin,Data Scientist,4,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,67000
+29,Male,Berlin,DevOps,7,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+29,Male,Berlin,Data Scientist,4,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+30,Male,Munich,Other,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,67500
+35,Female,Berlin,Other,3,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,75000
+27,Female,Other,Other,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,56300
+33,Male,Munich,QA Engineer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,89570
+28,Male,Berlin,Software Engineer,8,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+31,Female,Munich,Other,14,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,52000
+32,Male,Munich,Software Engineer,7,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,36000
+30,Male,Berlin,Backend Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+26,Male,Munich,Backend Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,95000
+31,Male,Munich,Software Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+38,Female,Munich,QA Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,56500
+37,Male,Berlin,Software Engineer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,68000
+25,Male,Munich,Software Engineer,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,74000
+36,Male,Berlin,Frontend Developer,12,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,80000
+27,Male,Munich,QA Engineer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,69000
+35,Male,Other,ML Engineer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+37,Male,Munich,Software Engineer,15,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,66000
+26,Male,Munich,Data Scientist,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,61000
+33,Male,Other,Other,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+34,Male,Berlin,Frontend Developer,7,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,56000
+33,Male,Berlin,Backend Developer,12,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,68000
+32,Male,Berlin,QA Engineer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+29,Male,Berlin,Backend Developer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,67000
+24,Male,Munich,Software Engineer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,82000
+28,Female,Munich,QA Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,58500
+30,Female,Berlin,Software Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,45000
+28,Male,Other,Other,8,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,55000
+31,Male,Munich,Backend Developer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,210000
+28,Male,Munich,Mobile Developer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+28,Male,Berlin,Software Engineer,6,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,94000
+26,Female,Munich,Data Scientist,3,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,66000
+33,Male,Berlin,Mobile Developer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+41,Male,Munich,Product Manager,18,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+31,Male,Berlin,Software Engineer,9,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,57000
+30,Male,Munich,Frontend Developer,6,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,54000
+31,Male,Berlin,Frontend Developer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,63000
+37,Male,Munich,Backend Developer,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,120000
+30,Male,Berlin,Software Engineer,10,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+34,Male,Munich,,17,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,74000
+25,Male,Munich,Backend Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+36,Male,Berlin,Backend Developer,19,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,92000
+40,Male,Berlin,Frontend Developer,7,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,106000
+37,Male,Berlin,Product Manager,6,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,71000
+35,Male,Munich,Software Engineer,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,52000
+42,Male,Berlin,Software Engineer,20,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,70000
+34,Male,Berlin,QA Engineer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,36000
+30,Male,Berlin,Backend Developer,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60500
+35,Male,Berlin,Software Engineer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,64000
+34,Male,Munich,Other,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,88000
+35,Male,Berlin,Other,10,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,64000
+35,Male,Berlin,Other,14,Middle,Temporary contract,English,101-1000,02.12.2021 11:18:26,,56000
+28,Male,Other,Software Engineer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,73500
+26,Male,Other,Data Scientist,5.5,Junior,unlimited,German,1000+,02.12.2021 11:18:26,,59500
+35,Male,Berlin,Frontend Developer,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+31,Female,Munich,QA Engineer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,81000
+35,Male,Other,Software Engineer,12,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,70000
+28,Male,Berlin,Product Manager,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,65000
+25,Male,Berlin,Backend Developer,4,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,66000
+42,Female,Berlin,QA Engineer,20,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+30,Male,Berlin,Product Manager,7,Head,unlimited,English,1000+,02.12.2021 11:18:26,,74000
+40,Female,Munich,Software Engineer,20,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,120000
+36,Female,Other,Other,14,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,120000
+37,Male,Berlin,Software Engineer,8,Junior,unlimited,English,51-100,02.12.2021 11:18:26,,70000
+33,Male,Munich,Software Engineer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,57000
+38,Male,Other,Software Engineer,11,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,120000
+27,Male,Munich,Frontend Developer,4,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,72000
+33,Male,Berlin,Software Engineer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,175000
+34,Male,Other,Data Scientist,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,67000
+36,Female,Munich,Backend Developer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+42,Male,Berlin,DevOps,22,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+32,Male,Other,Other,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,50000
+31,Male,Berlin,Frontend Developer,10,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,85000
+33,Female,Berlin,QA Engineer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,61800
+28,Male,Munich,Backend Developer,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+46,Male,Munich,Other,4,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,90000
+31,Male,Berlin,Software Engineer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,45000
+28,Male,Berlin,Mobile Developer,5,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,42000
+29,Male,Berlin,Software Engineer,8,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,59000
+40,Male,Munich,Mobile Developer,25,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,60000
+46,Male,Munich,QA Engineer,13,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,70000
+33,Male,Berlin,Backend Developer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+33,Male,Berlin,ML Engineer,10,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,62000
+34,Male,Berlin,Software Engineer,14,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,49375
+36,Male,Berlin,Backend Developer,18,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+33,Female,Berlin,QA Engineer,8,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,60000
+32,Male,Berlin,Software Engineer,11,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,120000
+46,Male,Berlin,Software Engineer,14,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,68700
+30,Male,Munich,Mobile Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,33200
+35,Male,Berlin,Product Manager,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,68000
+47,Male,Munich,DevOps,20,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,63000
+31,Male,Berlin,Data Scientist,10,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+46,Male,Munich,Other,12,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,120000
+26,Male,Berlin,Mobile Developer,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+31,Male,Other,Other,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,45000
+31,Male,Munich,Frontend Developer,12,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+30,Female,Berlin,QA Engineer,5,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,45000
+35,Male,Munich,Software Engineer,13,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,89000
+36,Male,Munich,Other,12,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+40,Male,Munich,Software Engineer,13,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,114000
+35,Female,Berlin,Software Engineer,15,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,60000
+32,Male,Munich,Other,9,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,85000
+29,Male,Berlin,Software Engineer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,46000
+30,Male,Other,Software Engineer,9,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,65000
+35,Male,Berlin,ML Engineer,10,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,85000
+29,Male,Berlin,Software Engineer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,100000
+32,Female,Berlin,Product Manager,10,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,75000
+30,Female,Munich,Mobile Developer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,56000
+25,Male,Berlin,Software Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+43,Male,Berlin,Software Engineer,20,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,62000
+38,Male,Berlin,Software Engineer,16,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+26,Male,Berlin,Software Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,46000
+25,Female,Munich,Product Manager,3,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,79000
+34,Male,Munich,Software Engineer,12,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,72000
+34,Male,Munich,Other,11,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,58000
+27,Male,Berlin,Backend Developer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+30,Male,Berlin,Mobile Developer,3,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,66000
+34,Male,Berlin,Data Scientist,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+36,Female,Berlin,QA Engineer,14,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,55000
+27,Male,Berlin,Backend Developer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,59000
+45,Male,Berlin,Mobile Developer,10,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,87600
+35,Male,Berlin,Backend Developer,6,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,67000
+36,Male,Berlin,Other,7,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,73000
+32,Male,Other,QA Engineer,9,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,80000
+33,Male,Other,DevOps,14,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,90000
+30,Male,Berlin,Backend Developer,10,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+35,Male,Berlin,Software Engineer,15,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,120000
+24,Male,Other,Other,0.8,Junior,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+25,Male,Other,Backend Developer,4,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,87000
+29,Male,Berlin,Mobile Developer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+32,Male,Berlin,Other,10,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,74000
+32,Male,Other,Software Engineer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,90000
+24,Male,Munich,Software Engineer,3,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,77400
+24,Female,Other,Software Engineer,2,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+56,Male,Other,Software Engineer,9,Senior,Temporary contract,German,1000+,02.12.2021 11:18:26,,63000
+53,Male,Other,Frontend Developer,15,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,78000
+32,Male,Berlin,Other,9,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+25,Male,Munich,ML Engineer,1,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,50000
+28,Male,Other,Software Engineer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,120000
+30,Male,Munich,Software Engineer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,43200
+26,Female,Berlin,Software Engineer,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,78000
+31,Female,Other,Data Scientist,4,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,96000
+31,Male,Munich,Software Engineer,9,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,85000
+29,Female,Other,QA Engineer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,95000
+33,Male,Munich,Backend Developer,15,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+26,Male,Munich,ML Engineer,1.5,Junior,unlimited,German,101-1000,02.12.2021 11:18:26,,62000
+30,Female,Other,QA Engineer,6,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,70000
+34,Male,Berlin,Software Engineer,14,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+37,Male,Berlin,Other,12,Head,unlimited,English,Nov-50,02.12.2021 11:18:26,,57000
+28,Male,Munich,Other,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+35,Male,Other,Other,14,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,50000
+31,Male,Berlin,QA Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+29,Male,Other,Other,1,Junior,unlimited,German,1000+,02.12.2021 11:18:26,,47500
+39,Male,Munich,Other,5,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,72000
+31,Female,Berlin,Other,11,Middle,Temporary contract,English,101-1000,02.12.2021 11:18:26,,64000
+29,Male,Munich,Backend Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,107000
+36,Male,Other,Frontend Developer,1,Junior,Temporary contract,German,up to 10,02.12.2021 11:18:26,,60000
+33,Male,Berlin,Other,10,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,36000
+35,Male,Other,Other,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,63500
+31,Male,Berlin,Other,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+37,Male,Berlin,Other,15,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,98000
+34,Male,Munich,Product Manager,7,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,66000
+30,Male,Other,Software Engineer,4,Junior,unlimited,English,101-1000,02.12.2021 11:18:26,,42000
+34,Male,Munich,Other,14,Head,unlimited,English,101-1000,02.12.2021 11:18:26,,69000
+33,Male,Berlin,Backend Developer,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,78000
+43,Male,Berlin,Backend Developer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,45000
+32,Female,Other,Other,2,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,59000
+34,Male,Other,Mobile Developer,14,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,77500
+29,Male,Berlin,Backend Developer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+37,Male,Berlin,Frontend Developer,14,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+41,Male,Munich,Other,19,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+33,Male,Other,Software Engineer,6,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,55000
+33,Female,Berlin,QA Engineer,9,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,85000
+40,Male,Munich,QA Engineer,18,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,75000
+38,Male,Munich,Backend Developer,12,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,100000
+29,Male,Munich,Frontend Developer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,92000
+27,Male,Berlin,Backend Developer,7,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,92000
+39,Male,Berlin,Product Manager,10,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+33,Female,Munich,QA Engineer,6.5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+38,Male,Munich,ML Engineer,10,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,46000
+42,Male,Berlin,ML Engineer,20,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,68000
+45,Female,Other,Other,6,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+38,Male,Other,Software Engineer,12,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,78000
+29,Male,Berlin,QA Engineer,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+30,Male,Berlin,Software Engineer,11,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,13200
+32,Male,Berlin,Software Engineer,9,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+41,Male,Munich,Backend Developer,21,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+34,Male,Berlin,Other,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+45,Male,Berlin,Software Engineer,25,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,70000
+34,Male,Berlin,DevOps,6,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,60000
+25,Male,Other,Backend Developer,7,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,120000
+32,Male,Berlin,Software Engineer,12,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,75000
+65,Male,Berlin,Software Engineer,25,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,67000
+33,Male,Munich,Other,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,66000
+34,Male,Berlin,ML Engineer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,45000
+28,Male,Berlin,Backend Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+32,Male,Berlin,Other,7.5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+39,Male,Munich,Other,17,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+30,Male,Berlin,Backend Developer,7,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,66000
+34,Male,Berlin,DevOps,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+35,Male,Berlin,Other,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+35,Female,Berlin,Frontend Developer,12,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+34,Male,Berlin,Frontend Developer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,59000
+34,Male,Berlin,Software Engineer,12,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,80000
+35,Male,Berlin,Software Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,90000
+38,Male,Berlin,Software Engineer,13,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,81600
+34,Female,Berlin,Software Engineer,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+31,Male,Berlin,Mobile Developer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,62000
+34,Male,Berlin,Backend Developer,15,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,128000
+29,Female,Munich,Software Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,92000
+37,Male,Berlin,Software Engineer,15,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+44,Male,Other,Software Engineer,22,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,62000
+30,Male,Munich,Frontend Developer,9,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,96000
+26,Male,Other,Other,4,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,98000
+46,Male,Berlin,Software Engineer,14,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,80000
+33,Male,Berlin,Software Engineer,14,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,124000
+27,Male,Other,Software Engineer,4,Junior,unlimited,German,up to 10,02.12.2021 11:18:26,,130000
+38,Male,Other,Software Engineer,15,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,62000
+32,Male,Munich,Backend Developer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,106000
+36,Female,Berlin,Other,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+26,Male,Other,Backend Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+29,Male,Berlin,Software Engineer,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,85000
+32,Male,Other,Other,8,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,170000
+29,Male,Other,Mobile Developer,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+33,Male,Other,Software Engineer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,68000
+32,Male,Munich,QA Engineer,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,95000
+34,Male,Berlin,Software Engineer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+29,Male,Munich,Software Engineer,7,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,71000
+33,Male,Munich,Software Engineer,10,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,65000
+32,Male,Berlin,Backend Developer,4,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,86000
+47,Male,Other,Software Engineer,22,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,60000
+29,Male,Berlin,Backend Developer,8,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+25,Male,Other,Data Scientist,2,Middle,unlimited,German,Nov-50,02.12.2021 11:18:26,,55000
+32,Male,Munich,Other,9,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,67000
+26,Male,Other,Software Engineer,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,85000
+29,Male,Munich,Mobile Developer,8,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,60000
+40,Male,Berlin,Backend Developer,18,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,67000
+27,Male,Munich,Software Engineer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+27,Male,Munich,Software Engineer,5,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,100000
+38,Male,Other,Other,20,Senior,unlimited,German,Nov-50,02.12.2021 11:18:26,,56000
+30,Male,Berlin,DevOps,9,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,62500
+30,Male,Other,Software Engineer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,76000
+29,Male,Munich,Other,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,42000
+37,Male,Other,Software Engineer,15,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,77000
+28,Male,Berlin,Other,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+28,Female,Berlin,Software Engineer,8,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+28,Male,Other,Backend Developer,5,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,58000
+33,Male,Berlin,Software Engineer,13,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,72000
+38,Male,Other,QA Engineer,7,Middle,unlimited,German,Nov-50,02.12.2021 11:18:26,,75000
+40,Male,Other,Software Engineer,22,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,108000
+28,Male,Munich,Other,9,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,78000
+29,Male,Berlin,Backend Developer,11,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,80000
+32,Male,Berlin,Software Engineer,9,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+30,Male,Berlin,Backend Developer,4,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,120000
+31,Male,Munich,Software Engineer,11,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,34446
+44,Male,Munich,Software Engineer,28,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,108000
+35,Male,Other,Product Manager,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,130000
+41,Female,Munich,Other,12,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,90000
+32,Male,Berlin,Software Engineer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+28,Female,Other,Software Engineer,4,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+33,Male,Berlin,Software Engineer,10,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,38400
+46,Male,Munich,Software Engineer,10,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,96000
+27,Male,Berlin,Frontend Developer,8,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,60000
+32,Male,Berlin,Backend Developer,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,62000
+34,Male,Berlin,Software Engineer,15,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+33,Male,Berlin,Software Engineer,10,Senior,Temporary contract,English,Nov-50,02.12.2021 11:18:26,,80200
+26,Male,Other,Software Engineer,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,90000
+41,Male,Berlin,Software Engineer,19,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,36000
+35,Male,Other,Software Engineer,14,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,75700
+26,Male,Other,Software Engineer,7,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,46000
+27,Male,Berlin,Mobile Developer,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,63400
+24,Male,Munich,Software Engineer,3,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+35,Male,Other,Software Engineer,13,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,70000
+31,Male,Other,Software Engineer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+25,Male,Berlin,Backend Developer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,106000
+37,Male,Other,Other,20,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+35,Male,Berlin,QA Engineer,11,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,100000
+37,Male,Other,Software Engineer,15,Senior,Temporary contract,English,Nov-50,02.12.2021 11:18:26,,90000
+36,Male,Other,Backend Developer,10,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,65000
+32,Female,Other,Data Scientist,4,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+38,Male,Berlin,Other,5,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,90000
+23,Male,Berlin,Software Engineer,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,105000
+39,Male,Other,Software Engineer,11,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,52000
+27,Female,Berlin,Data Scientist,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,58000
+50,Male,Berlin,Software Engineer,29,Lead,unlimited,German,Nov-50,02.12.2021 11:18:26,,55000
+35,Female,Berlin,Other,15,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,85000
+40,Male,Berlin,Other,10,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+35,Male,Other,Backend Developer,11,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+29,Male,Berlin,Backend Developer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,52000
+30,Male,Munich,Mobile Developer,8,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,85000
+24,Male,Other,Frontend Developer,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,70000
+28,Male,Other,Software Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,88000
+28,Male,Berlin,Backend Developer,9,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,73000
+37,Female,Berlin,Other,2,Middle,Temporary contract,English,up to 10,02.12.2021 11:18:26,,150000
+37,Male,Berlin,Software Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,74000
+33,Male,Berlin,Other,10,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+30,Male,Munich,Frontend Developer,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,77000
+31,Male,Berlin,Software Engineer,4,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,125000
+32,Male,Munich,Software Engineer,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,32000
+28,Female,Berlin,Software Engineer,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,46000
+31,Female,Munich,Software Engineer,2,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,52000
+34,Male,Berlin,Mobile Developer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,87000
+24,Male,Berlin,Backend Developer,4,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,65000
+39,Male,Berlin,DevOps,15,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+42,Male,Other,Backend Developer,20,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,69000
+26,Male,Other,Frontend Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+31,Female,Other,Software Engineer,2,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,44000
+32,Female,Berlin,Mobile Developer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,23500
+30,Female,Berlin,QA Engineer,4,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,76500
+23,Male,Berlin,Mobile Developer,3,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,66000
+27,Female,Berlin,Backend Developer,3,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,52500
+27,Male,Other,ML Engineer,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,57000
+27,Male,Berlin,Other,5,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+29,Male,Berlin,Frontend Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,59000
+32,Male,Munich,Software Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,63000
+31,Male,Berlin,DevOps,11,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,98000
+26,Male,Berlin,Other,7,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,73000
+29,Male,Berlin,Software Engineer,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,36000
+30,Male,Other,Frontend Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,52200
+38,Male,Berlin,Mobile Developer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,110000
+25,Male,Berlin,Other,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,58000
+24,Male,Berlin,Backend Developer,3,Junior,Temporary contract,English,1000+,02.12.2021 11:18:26,,98000
+24,Male,Other,Software Engineer,3,Junior,unlimited,English,Nov-50,02.12.2021 11:18:26,,130000
+34,Female,Berlin,QA Engineer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,50000
+30,Male,Other,Data Scientist,2,Middle,Temporary contract,English,1000+,02.12.2021 11:18:26,,57000
+27,Female,Munich,Frontend Developer,2,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,73500
+46,Male,Other,Software Engineer,23,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,48000
+40,Female,Berlin,Other,8,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,68000
+23,Male,Other,Frontend Developer,5,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,65000
+40,Male,Other,Other,11,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,96000
+38,Male,Other,Software Engineer,10,Lead,unlimited,German,51-100,02.12.2021 11:18:26,,55000
+28,Male,Other,Mobile Developer,5,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,57000
+38,Male,Berlin,Software Engineer,16,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+32,Male,Other,Software Engineer,12,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,46000
+33,Female,Berlin,Software Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+34,Male,Berlin,Software Engineer,13,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,48000
+35,Female,Other,Other,9,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,135000
+37,Male,Other,Software Engineer,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+40,Male,Other,Software Engineer,14,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,58000
+36,Male,Munich,Other,15,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,75000
+27,Male,Other,Software Engineer,5,Middle,unlimited,English,up to 10,02.12.2021 11:18:26,,55000
+28,Male,Berlin,Software Engineer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,22000
+23,Male,Other,Software Engineer,4,Middle,unlimited,English,up to 10,02.12.2021 11:18:26,,106000
+31,Female,Berlin,QA Engineer,11,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,106000
+34,Male,Other,Software Engineer,12,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,67000
+34,Male,Berlin,Software Engineer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,67500
+29,Male,Other,Mobile Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,90000
+38,Male,Munich,Software Engineer,15,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,20000
+25,Female,Berlin,Frontend Developer,4,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,46000
+23,Male,Berlin,Software Engineer,3,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+30,Male,Munich,Software Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,67000
+32,Male,Berlin,Other,10,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,140000
+28,Male,Berlin,Frontend Developer,2,Junior,unlimited,German,1000+,02.12.2021 11:18:26,,96000
+31,Male,Berlin,ML Engineer,4,Junior,unlimited,German,1000+,02.12.2021 11:18:26,,52000
+29,Male,Berlin,Other,6,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,45000
+40,Female,Berlin,Software Engineer,1.5,Junior,unlimited,English,51-100,02.12.2021 11:18:26,,80000
+42,Male,Berlin,Software Engineer,17,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,50000
+40,Male,Berlin,Product Manager,13,Head,unlimited,English,1000+,02.12.2021 11:18:26,,72000
+27,Male,Berlin,Software Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+29,Male,Munich,Software Engineer,8,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+23,Male,Berlin,Software Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,68000
+35,Male,Munich,Backend Developer,14,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+33,Male,Other,Software Engineer,10,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,85000
+31,Male,Berlin,Software Engineer,10,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,54000
+38,Male,Berlin,Data Scientist,15,Head,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+31,Male,Other,ML Engineer,3,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+26,Female,Berlin,Data Scientist,2,Junior,unlimited,English,Nov-50,02.12.2021 11:18:26,,67200
+30,Male,Berlin,Software Engineer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,79000
+33,Male,Munich,Software Engineer,9,Lead,unlimited,German,51-100,02.12.2021 11:18:26,,120000
+33,Male,Munich,Software Engineer,11,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,75000
+31,Male,Berlin,Mobile Developer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,72000
+33,Male,Other,Data Scientist,2,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,104000
+43,Male,Munich,Other,21,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,53000
+36,Male,Berlin,Frontend Developer,14,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,40000
+33,Male,Other,Software Engineer,9,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,130000
+36,Female,Berlin,DevOps,1,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,110000
+27,Female,Munich,Mobile Developer,1,Junior,unlimited,English,Nov-50,02.12.2021 11:18:26,,115000
+33,Male,Berlin,Software Engineer,12,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+33,Male,Berlin,Other,2,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,14400
+40,Male,Berlin,QA Engineer,11,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,62000
+24,Female,Berlin,Software Engineer,2,Middle,unlimited,German,Nov-50,02.12.2021 11:18:26,,45000
+40,Male,Other,Product Manager,17,Lead,unlimited,German,Nov-50,02.12.2021 11:18:26,,75000
+37,Male,Munich,DevOps,13,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,54000
+35,Male,Other,Frontend Developer,6,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,95000
+39,Male,Berlin,Data Scientist,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,125000
+25,Male,Berlin,Software Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,39400
+27,Male,Berlin,Software Engineer,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+30,Male,Berlin,Product Manager,3,Junior,unlimited,English,Nov-50,02.12.2021 11:18:26,,
+28,Male,Berlin,Data Scientist,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+29,Female,Berlin,Other,9,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,45000
+34,Male,Berlin,Mobile Developer,10,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,78000
+28,Female,Berlin,Data Scientist,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+39,Male,Munich,Other,20,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,90000
+32,Male,Berlin,Software Engineer,6,Middle,Temporary contract,German,1000+,02.12.2021 11:18:26,,65000
+37,Male,Berlin,QA Engineer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+32,Male,Munich,Software Engineer,7,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,150000
+35,Male,Munich,Software Engineer,16,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,105000
+26,Male,Berlin,Data Scientist,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,85000
+32,Male,Berlin,Frontend Developer,7,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,100000
+29,Male,Berlin,Other,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+36,Male,Berlin,Software Engineer,10,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,47000
+26,Male,Berlin,Software Engineer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,53600
+28,Male,Berlin,Other,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,66000
+36,Male,Berlin,Data Scientist,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+32,Male,Berlin,Software Engineer,10,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,87000
+28,Male,Munich,Software Engineer,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,95000
+27,Male,Berlin,DevOps,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+33,Male,Berlin,Software Engineer,16,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,95000
+34,Male,Munich,QA Engineer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,105000
+31,Male,Berlin,Frontend Developer,8,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,36000
+31,Male,Munich,Frontend Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,73000
+31,Male,Berlin,Data Scientist,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,216000
+27,Male,Berlin,ML Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,90000
+29,Male,Berlin,Backend Developer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,57000
+39,Male,Berlin,Software Engineer,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+35,Male,Berlin,Frontend Developer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,66000
+38,Male,Berlin,Other,24,Head,unlimited,English,101-1000,02.12.2021 11:18:26,,44000
+32,Male,Berlin,QA Engineer,7,Senior,Temporary contract,English,51-100,02.12.2021 11:18:26,,58000
+35,Male,Berlin,Other,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,112000
+28,Male,Other,ML Engineer,2,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,30000
+30,Female,Berlin,Data Scientist,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,85000
+30,Male,Berlin,Other,5,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,100000
+26,Male,Berlin,Other,2,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+25,Male,Berlin,Other,3,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+30,Male,Berlin,Product Manager,3,Junior,unlimited,English,Nov-50,02.12.2021 11:18:26,,60000
+27,Male,Berlin,DevOps,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+28,Male,Berlin,Product Manager,7,Head,unlimited,English,101-1000,02.12.2021 11:18:26,,133000
+22,Male,Berlin,Other,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,33000
+37,Female,Berlin,Data Scientist,2,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,64000
+25,Male,Berlin,Data Scientist,1,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,64000
+31,Male,Berlin,Data Scientist,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,62000
+25,Male,Berlin,Software Engineer,5,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,85000
+26,Female,Berlin,Data Scientist,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+29,Male,Berlin,Frontend Developer,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,68000
+22,Female,Berlin,Other,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,85000
+30,Male,Berlin,Frontend Developer,4,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+30,Male,Berlin,Frontend Developer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,34000
+28,Female,Other,Other,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+29,Male,Berlin,Frontend Developer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,63600
+32,Male,Other,DevOps,10,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,79000
+36,Male,Berlin,Other,4,Middle,Temporary contract,English,up to 10,02.12.2021 11:18:26,,68000
+32,Male,Other,Product Manager,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+30,Female,Berlin,Software Engineer,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+29,Male,Other,Software Engineer,7,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,68000
+32,Female,Berlin,QA Engineer,10,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,91000
+34,Male,Berlin,QA Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,90000
+30,Male,Berlin,Data Scientist,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,63000
+40,Male,Berlin,Other,15,Head,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+31,Male,Berlin,Software Engineer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,95000
+38,Male,Berlin,Data Scientist,15,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+39,Male,Other,Data Scientist,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+35,Male,Berlin,Backend Developer,13,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,70000
+30,Female,Berlin,QA Engineer,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,55000
+36,Male,Berlin,Other,18,Head,unlimited,English,1000+,02.12.2021 11:18:26,,40000
+41,Male,Berlin,Backend Developer,20,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,96000
+41,Male,Berlin,Software Engineer,18,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,72000
+28,Female,Berlin,Data Scientist,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+33,Male,Berlin,Software Engineer,10,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,63000
+31,Male,Munich,Software Engineer,3,Middle,unlimited,German,51-100,02.12.2021 11:18:26,,85000
+29,Male,Berlin,Backend Developer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,76000
+23,Male,Berlin,Backend Developer,3,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,98000
+25,Male,Berlin,ML Engineer,4.5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,62000
+34,Male,Berlin,QA Engineer,10,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,63000
+45,Male,Berlin,Backend Developer,30,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,73000
+37,Male,Berlin,Other,15,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,50000
+31,Male,Berlin,Software Engineer,9,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,36000
+32,Male,Other,Backend Developer,15,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,80000
+45,Female,Berlin,Product Manager,15,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,91000
+42,Male,Other,Software Engineer,16,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+23,Male,Berlin,Other,4,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,77000
+36,Male,Berlin,Backend Developer,14,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,56000
+40,Male,Other,Other,20,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,69000
+28,Male,Berlin,Backend Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,35000
+35,Male,Other,Backend Developer,15,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,60000
+37,Male,Berlin,Backend Developer,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+33,Male,Berlin,Software Engineer,10,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+33,Male,Berlin,Backend Developer,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,57000
+31,Male,Munich,Software Engineer,10,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,50000
+31,Male,Berlin,Software Engineer,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,71000
+28,Male,Other,Software Engineer,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,66000
+31,Male,Other,QA Engineer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,63000
+25,Female,Other,Software Engineer,3,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,72500
+35,Male,Berlin,Other,9,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,120000
+35,Male,Berlin,Software Engineer,15,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,67000
+41,Male,Berlin,DevOps,20,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,90000
+33,Male,Berlin,DevOps,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+33,Male,Berlin,Other,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+38,Male,Munich,Software Engineer,15,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+35,Male,Berlin,Software Engineer,10,Senior,unlimited,German,up to 10,02.12.2021 11:18:26,,61800
+49,Male,Munich,Software Engineer,27,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,50000
+32,Female,Berlin,Software Engineer,6,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,58000
+27,Female,Berlin,Other,1,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+31,Male,Other,Data Scientist,6,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,100000
+31,Male,Other,Mobile Developer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+28,Male,Other,Backend Developer,4,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,105000
+28,Female,Berlin,Frontend Developer,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+27,Male,Berlin,Software Engineer,2,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+29,Male,Berlin,Frontend Developer,8,Head,unlimited,English,1000+,02.12.2021 11:18:26,,50000
+32,Female,Munich,Other,10,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,42000
+28,Male,Berlin,QA Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,24000
+38,Male,Other,Mobile Developer,16,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+29,Male,Berlin,Other,3,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,85000
+30,Male,Other,Backend Developer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,115000
+33,Female,Berlin,Other,6,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,63000
+30,Male,Other,Data Scientist,6,Junior,unlimited,German,101-1000,02.12.2021 11:18:26,,53900
+31,Male,Berlin,Product Manager,5,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,72000
+37,Male,Berlin,Mobile Developer,16,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,110000
+32,Male,Other,Mobile Developer,13,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,83000
+32,Female,Munich,QA Engineer,9,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,72000
+40,Male,Berlin,Product Manager,13,Head,unlimited,English,1000+,02.12.2021 11:18:26,,73000
+30,Male,Berlin,Software Engineer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,115000
+30,Male,Berlin,Software Engineer,8,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,96000
+32,Male,Berlin,QA Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+32,Male,Other,DevOps,7,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,110000
+34,Male,Munich,Software Engineer,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+43,Male,Other,Backend Developer,10,Senior,unlimited,German,101-1000,02.12.2021 11:18:26,,55000
+33,Male,Munich,Software Engineer,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,50000
+28,Female,Munich,QA Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,83000
+33,Male,Other,Software Engineer,11,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,56000
+33,Male,Munich,Software Engineer,11,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+51,Male,Berlin,Software Engineer,30,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,62000
+35,Male,Berlin,Software Engineer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+35,Male,Berlin,Software Engineer,1,Junior,unlimited,German,up to 10,02.12.2021 11:18:26,,107000
+33,Male,Berlin,ML Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+28,Male,Munich,Software Engineer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+25,Male,Berlin,Mobile Developer,2,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+32,Male,Berlin,Backend Developer,10,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,96000
+32,Male,Berlin,Software Engineer,9,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+26,Male,Berlin,Other,9,Head,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+25,Male,Berlin,Software Engineer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+27,Female,Berlin,Backend Developer,5,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,106000
+28,Male,Other,Frontend Developer,7,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+32,Female,Munich,QA Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,52000
+28,Male,Other,Backend Developer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+34,Male,Berlin,Frontend Developer,13,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,102000
+35,Male,Other,Data Scientist,10,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,80000
+38,Male,Berlin,Other,20,Head,unlimited,English,1000+,02.12.2021 11:18:26,,90000
+33,Male,Berlin,Backend Developer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,128000
+36,Male,Berlin,Product Manager,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,63000
+31,Female,Other,QA Engineer,8,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,82000
+43,Male,Other,Other,20,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,50000
+38,Male,Berlin,Data Scientist,15,Head,unlimited,English,101-1000,02.12.2021 11:18:26,,120000
+35,Male,Munich,DevOps,17,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,64800
+33,Male,Other,Product Manager,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+33,Male,Other,Product Manager,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+32,Male,Berlin,DevOps,10,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,100000
+43,Male,Berlin,DevOps,21,Lead,unlimited,German,51-100,02.12.2021 11:18:26,,110000
+37,Male,Berlin,Mobile Developer,17,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,110000
+30,Male,Other,Software Engineer,8,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,66000
+29,Male,Berlin,Mobile Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+38,Male,Other,Backend Developer,4,Middle,unlimited,English,up to 10,02.12.2021 11:18:26,,125000
+32,Male,Other,Software Engineer,18,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+29,Male,Other,Frontend Developer,6,Middle,unlimited,German,Nov-50,02.12.2021 11:18:26,,84000
+35,Male,Berlin,QA Engineer,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,51072
+41,Male,Munich,Software Engineer,19,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+29,Male,Other,Data Scientist,0,Junior,unlimited,English,51-100,02.12.2021 11:18:26,,130000
+26,Female,Other,Other,5,Middle,unlimited,German,up to 10,02.12.2021 11:18:26,,110000
+30,Male,Berlin,Other,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,86000
+26,Male,Other,DevOps,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,24000
+35,Female,Munich,Backend Developer,4,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,82000
+32,Male,Berlin,Frontend Developer,13,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,140000
+33,Male,Other,Data Scientist,2,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,64000
+32,Male,Munich,Frontend Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,74000
+26,Male,Berlin,Other,4,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,59000
+32,Male,Berlin,DevOps,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,53000
+43,Male,Berlin,Other,20,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,103000
+33,Male,Munich,Software Engineer,11,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+35,Female,Other,Software Engineer,1,Junior,unlimited,German,51-100,02.12.2021 11:18:26,,110000
+28,Male,Munich,Frontend Developer,5,Middle,unlimited,German,Nov-50,02.12.2021 11:18:26,,65000
+36,Male,Munich,DevOps,16,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,85000
+27,Male,Munich,Other,2,Junior,unlimited,German,Nov-50,02.12.2021 11:18:26,,67000
+36,Male,Berlin,Backend Developer,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,45600
+38,Male,Berlin,Backend Developer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,66340
+28,Male,Berlin,Mobile Developer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,30000
+25,Male,Berlin,Mobile Developer,8,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,95000
+30,Male,Berlin,Frontend Developer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+42,Female,Berlin,QA Engineer,10,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,77000
+30,Male,Berlin,Backend Developer,8,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,89000
+28,Male,Berlin,Backend Developer,8,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,48000
+32,Female,Berlin,DevOps,9,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+29,Male,Berlin,Frontend Developer,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,50000
+30,Female,Other,Product Manager,8,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,60600
+35,Male,Berlin,Software Engineer,13,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,107000
+33,Male,Berlin,Frontend Developer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,120000
+34,Male,Berlin,Backend Developer,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,84000
+25,Male,Berlin,Backend Developer,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,79000
+42,Female,Berlin,QA Engineer,5,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,87000
+25,Female,Other,Other,3,Junior,Temporary contract,English,51-100,02.12.2021 11:18:26,,90000
+33,Male,Other,Software Engineer,11,Senior,Temporary contract,English,101-1000,02.12.2021 11:18:26,,75000
+39,Male,Other,Other,12,Head,unlimited,German,up to 10,02.12.2021 11:18:26,,48000
+24,Male,Berlin,Software Engineer,2,Junior,unlimited,German,1000+,02.12.2021 11:18:26,,50000
+24,Female,Other,Software Engineer,3,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+39,Male,Berlin,Other,15,Lead,unlimited,German,101-1000,02.12.2021 11:18:26,,73000
+33,Male,Other,Backend Developer,8,Senior,Temporary contract,English,Nov-50,02.12.2021 11:18:26,,52000
+26,Male,Berlin,Backend Developer,2.5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,45000
+29,Male,Berlin,Software Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,45000
+29,Female,Berlin,Software Engineer,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+34,Male,Other,Other,12,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,75000
+30,Male,Berlin,Backend Developer,9,Head,unlimited,English,51-100,02.12.2021 11:18:26,,95000
+31,Male,Berlin,ML Engineer,7,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,28300
+33,Male,Berlin,Mobile Developer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,93000
+31,Female,Berlin,Software Engineer,1,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,77000
+36,Male,Other,Software Engineer,16,Middle,unlimited,German,51-100,02.12.2021 11:18:26,,51600
+30,Male,Berlin,DevOps,7,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,45000
+39,Male,Berlin,Software Engineer,19,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+30,Male,Munich,Software Engineer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,50000
+32,Male,Berlin,Software Engineer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,82000
+35,Male,Berlin,Backend Developer,12,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,63000
+34,Male,Berlin,Data Scientist,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,56000
+26,Male,Berlin,Data Scientist,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,115000
+29,Male,Other,Mobile Developer,7,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,65000
+31,Male,Berlin,Software Engineer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,57000
+30,Male,Berlin,Backend Developer,8,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,51000
+33,Male,Berlin,Software Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+28,Male,Berlin,Other,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,82000
+33,Male,Other,Other,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,77500
+35,Male,Other,Data Scientist,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,74400
+35,Male,Berlin,Other,16,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+31,Male,Berlin,Software Engineer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,58000
+32,Male,Other,Software Engineer,13,Junior,unlimited,English,51-100,02.12.2021 11:18:26,,65000
+38,Male,Berlin,Software Engineer,15,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62500
+29,Male,Berlin,Other,9,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,69000
+33,Male,Berlin,Backend Developer,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,81000
+30,Male,Berlin,DevOps,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+28,Male,Berlin,Other,6,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,48000
+32,Male,Berlin,Other,9,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,60000
+39,Male,Berlin,Frontend Developer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+31,Male,Other,Frontend Developer,6,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,54000
+33,Male,Berlin,Software Engineer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,87500
+30,Male,Berlin,QA Engineer,8,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,76000
+30,Female,Other,Other,2,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+37,Male,Munich,Software Engineer,15,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,30000
+42,Male,Berlin,Software Engineer,20,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+28,Male,Munich,Other,6,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,80000
+31,Male,Other,QA Engineer,9,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,48000
+34,Female,Berlin,QA Engineer,11,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,53000
+38,Male,Berlin,Other,15,Head,unlimited,English,101-1000,02.12.2021 11:18:26,,58500
+35,Male,Berlin,Other,20,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,64000
+31,Male,Munich,Software Engineer,14,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+37,Male,Berlin,Software Engineer,11,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+37,Male,Berlin,Backend Developer,12,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,72000
+34,Male,Berlin,Mobile Developer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,105000
+25,Male,Other,Data Scientist,1,Junior,unlimited,English,up to 10,02.12.2021 11:18:26,,72000
+42,Male,Other,Software Engineer,20,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+35,Female,Berlin,Product Manager,13,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,58000
+37,Male,Berlin,QA Engineer,8,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,90000
+33,Female,Berlin,Data Scientist,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,30000
+46,Male,Other,Software Engineer,13,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+30,Male,Berlin,DevOps,11,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,75000
+34,Male,Berlin,Other,13,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,83400
+35,Male,Berlin,Software Engineer,15,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,67000
+27,Male,Berlin,Backend Developer,4,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,65000
+31,Male,Berlin,Software Engineer,7,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,62000
+24,Male,Berlin,Software Engineer,2,Junior,unlimited,German,up to 10,02.12.2021 11:18:26,,43000
+28,Male,Berlin,Other,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,87000
+42,Male,Berlin,Backend Developer,18,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,70000
+27,Male,Berlin,Data Scientist,5,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,78000
+30,Male,Other,Software Engineer,5,Middle,unlimited,English,up to 10,02.12.2021 11:18:26,,48000
+32,Male,Berlin,Other,11,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,83000
+26,Male,Berlin,Software Engineer,2,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,67000
+37,Male,Other,ML Engineer,15,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,82000
+39,Male,Munich,Software Engineer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,115000
+26,Female,Berlin,Other,2.5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,125000
+30,Male,Other,Data Scientist,5,Head,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+30,Male,Munich,Software Engineer,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+26,Male,Other,ML Engineer,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,87000
+25,Female,Munich,ML Engineer,1,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,58000
+38,Female,Other,ML Engineer,3,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,50000
+40,Male,Berlin,Product Manager,13,Head,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+28,Male,Other,Mobile Developer,5,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,69300
+29,Female,Berlin,Data Scientist,2,Junior,unlimited,German,up to 10,02.12.2021 11:18:26,,75000
+30,Female,Berlin,ML Engineer,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,155000
+28,Male,Other,Software Engineer,6,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,70000
+32,Female,Berlin,Data Scientist,1,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+42,Male,Berlin,Software Engineer,12,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+29,Male,Munich,Data Scientist,4,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,14000
+29,Male,Munich,Software Engineer,4,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+27,Female,Berlin,Backend Developer,1,Junior,unlimited,German,101-1000,02.12.2021 11:18:26,,82000
+37,Male,Munich,Software Engineer,14,Head,unlimited,English,up to 10,02.12.2021 11:18:26,,67000
+31,Male,Other,Data Scientist,10,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,90000
+35,Male,Berlin,Other,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,53000
+27,Male,Berlin,Data Scientist,4,Junior,Temporary contract,English,51-100,02.12.2021 11:18:26,,72000
+29,Male,Munich,Other,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+36,Male,Berlin,Backend Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+33,Male,Munich,Backend Developer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,74000
+42,Male,Berlin,Software Engineer,12,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+32,Female,Berlin,Other,1,Junior,unlimited,English,101-1000,02.12.2021 11:18:26,,63600
+30,Male,Berlin,Software Engineer,10,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,72000
+29,Female,Berlin,Software Engineer,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,80500
+23,Male,Munich,ML Engineer,1,Junior,unlimited,English,101-1000,02.12.2021 11:18:26,,125000
+35,Female,Berlin,Frontend Developer,2,Junior,unlimited,English,101-1000,02.12.2021 11:18:26,,160000
+36,Male,Other,Software Engineer,14,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,32000
+34,Male,Berlin,Other,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+34,Male,Berlin,DevOps,12,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,35300
+31,Male,Munich,ML Engineer,4,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+34,Female,Berlin,QA Engineer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,40146
+33,Male,Munich,Frontend Developer,14,Senior,unlimited,German,Nov-50,02.12.2021 11:18:26,,90000
+33,Male,Other,Software Engineer,8,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,67000
+33,Male,Munich,Backend Developer,12,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,80000
+29,Male,Other,Data Scientist,3,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,125000
+44,Female,Berlin,ML Engineer,13,Junior,unlimited,English,51-100,02.12.2021 11:18:26,,63000
+31,Male,Berlin,Backend Developer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,90000
+26,Male,Berlin,Data Scientist,2,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,74200
+42,Male,Berlin,Software Engineer,12,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,86000
+33,Male,Berlin,Product Manager,5,Middle,Temporary contract,English,1000+,02.12.2021 11:18:26,,117000
+33,Male,Other,Other,7,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,48000
+36,Male,Other,QA Engineer,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,57600
+31,Male,Berlin,Backend Developer,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,63600
+42,Male,Berlin,Software Engineer,12,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,36819
+30,Male,Berlin,Other,7,Head,unlimited,English,101-1000,02.12.2021 11:18:26,,21600
+32,Female,Berlin,QA Engineer,10,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,63600
+34,Male,Berlin,Software Engineer,16,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,49000
+35,Male,Berlin,Data Scientist,15,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,78000
+33,Male,Munich,Other,10,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,120000
+39,Male,Other,Other,12,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,60000
+39,Female,Other,Other,13,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,36000
+25,Female,Berlin,Other,2,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+34,Male,Munich,Frontend Developer,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,49000
+28,Male,Other,Software Engineer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,112000
+35,Male,Berlin,Frontend Developer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,87000
+38,Male,Berlin,Backend Developer,8,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,68000
+34,Male,Munich,Backend Developer,13,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,55000
+36,Male,Other,Software Engineer,8,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,160000
+30,Female,Munich,Software Engineer,8,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,52000
+32,Male,Berlin,Software Engineer,10,Senior,unlimited,German,1000+,02.12.2021 11:18:26,,80000
+27,Male,Berlin,Other,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,100000
+27,Male,Berlin,QA Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,52500
+33,Male,Berlin,Software Engineer,7,Middle,Temporary contract,English,51-100,02.12.2021 11:18:26,,68000
+29,Male,Berlin,Other,7,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,112000
+25,Male,Other,DevOps,2,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,52000
+38,Male,Berlin,Software Engineer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,105000
+30,Female,Other,Software Engineer,4,Middle,Temporary contract,English,101-1000,02.12.2021 11:18:26,,75000
+34,Male,Other,Other,14,Lead,Temporary contract,English,51-100,02.12.2021 11:18:26,,82500
+29,Male,Berlin,Frontend Developer,8,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,38400
+27,Male,Berlin,Backend Developer,3,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,39600
+36,Male,Berlin,Software Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,200000
+43,Male,Berlin,Software Engineer,20,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,54000
+32,Male,Munich,Frontend Developer,10,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,98000
+28,Male,Berlin,ML Engineer,0,Junior,unlimited,English,Nov-50,02.12.2021 11:18:26,,68000
+36,Male,Other,Software Engineer,20,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,125000
+38,Female,Other,Data Scientist,14,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,63000
+27,Male,Other,QA Engineer,3,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,30000
+26,Male,Berlin,Backend Developer,2,Junior,unlimited,German,Nov-50,02.12.2021 11:18:26,,96000
+26,Male,Other,Data Scientist,2,Junior,unlimited,English,51-100,02.12.2021 11:18:26,,60000
+34,Male,Other,Software Engineer,6,Head,unlimited,German,1000+,02.12.2021 11:18:26,,95000
+25,Male,Other,Data Scientist,0,Junior,unlimited,German,1000+,02.12.2021 11:18:26,,90000
+30,Male,Other,Other,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,55000
+35,Male,Berlin,Other,10,Senior,unlimited,German,Nov-50,02.12.2021 11:18:26,,48000
+30,Male,Other,Other,7,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,88000
+26,Male,Berlin,Software Engineer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,68500
+30,Female,Other,QA Engineer,7,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,115000
+33,Female,Other,Software Engineer,6,Middle,unlimited,German,1000+,02.12.2021 11:18:26,,66000
+26,Male,Berlin,Backend Developer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+29,Male,Berlin,Data Scientist,6,Middle,unlimited,English,up to 10,02.12.2021 11:18:26,,105000
+36,Male,Other,Data Scientist,5,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,72000
+23,Male,Other,Other,3,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+28,Male,Berlin,ML Engineer,1,Junior,unlimited,English,up to 10,02.12.2021 11:18:26,,55000
+35,Male,Berlin,Data Scientist,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,107000
+37,Female,Berlin,Data Scientist,8,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,90000
+26,Male,Other,Software Engineer,4,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,73000
+24,Male,Other,ML Engineer,5,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+35,Male,Other,Other,6,Head,unlimited,English,1000+,02.12.2021 11:18:26,,68000
+31,Male,Munich,Other,10,Lead,unlimited,German,101-1000,02.12.2021 11:18:26,,75000
+27,Female,Munich,Backend Developer,6,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,61000
+29,Male,Other,Data Scientist,2,Middle,Temporary contract,English,1000+,02.12.2021 11:18:26,,42000
+29,Male,Berlin,Other,6,Head,unlimited,German,1000+,02.12.2021 11:18:26,,72000
+34,Male,Berlin,Backend Developer,14,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,36000
+29,Male,Other,Frontend Developer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,58000
+35,Male,Other,Data Scientist,12,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+54,Male,Other,Other,31,Head,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+31,Male,Berlin,Software Engineer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+30,Male,Other,Software Engineer,5,Junior,unlimited,German,Nov-50,02.12.2021 11:18:26,,60000
+28,Male,Other,Other,8,Lead,Temporary contract,English,Nov-50,02.12.2021 11:18:26,,78000
+32,Male,Berlin,Data Scientist,4,Head,unlimited,German,Nov-50,02.12.2021 11:18:26,,55000
+36,Male,Other,Data Scientist,2,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,109000
+26,Male,Berlin,DevOps,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,78000
+36,Male,Munich,DevOps,14,Middle,unlimited,German,101-1000,02.12.2021 11:18:26,,69000
+33,Male,Berlin,Backend Developer,13,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,56000
+29,Male,Other,Data Scientist,5,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+36,Male,Berlin,Frontend Developer,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,52000
+35,Male,Berlin,Software Engineer,2,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+29,Male,Berlin,Backend Developer,9,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,70000
+32,Male,Other,Backend Developer,14,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+32,Female,Berlin,Other,10,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,21600
+30,Male,Berlin,Software Engineer,7,Senior,Temporary contract,English,Nov-50,02.12.2021 11:18:26,,62000
+30,Male,Munich,Data Scientist,2,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,95000
+30,Male,Berlin,ML Engineer,6,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,86000
+30,Male,Other,Data Scientist,5,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,54000
+48,Male,Other,DevOps,15,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,49000
+31,Male,Berlin,Other,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,48000
+38,Male,Other,Software Engineer,15,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,65000
+29,Male,Berlin,Data Scientist,5,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,53000
+34,Male,Munich,Frontend Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,62000
+27,Male,Berlin,Frontend Developer,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+34,Male,Berlin,ML Engineer,3,Senior,Temporary contract,English,101-1000,02.12.2021 11:18:26,,120000
+28,Male,Other,Software Engineer,2,Junior,unlimited,English,101-1000,02.12.2021 11:18:26,,58000
+40,Male,Other,Software Engineer,9,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,48000
+29,Male,Berlin,Product Manager,5,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+27,Male,Other,Software Engineer,1,Junior,unlimited,German,Nov-50,02.12.2021 11:18:26,,59000
+35,Female,Munich,Data Scientist,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,73000
+29,Male,Other,Software Engineer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+38,Male,Munich,Product Manager,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,89000
+32,Male,Berlin,Other,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+37,Male,Berlin,Data Scientist,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,88000
+29,Male,Other,DevOps,6,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,60000
+32,Male,Other,Software Engineer,7,Senior,unlimited,German,51-100,02.12.2021 11:18:26,,45000
+40,Male,Other,Software Engineer,16,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,77700
+39,Male,Berlin,Software Engineer,12,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,80000
+32,Male,Other,Other,10,Lead,unlimited,German,1000+,02.12.2021 11:18:26,,85000
+26,Female,Berlin,Backend Developer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,150000
+30,Male,Berlin,Software Engineer,9,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,82500
+40,Male,Berlin,Backend Developer,20,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,52000
+28,Male,Other,Other,3,Middle,unlimited,English,up to 10,02.12.2021 11:18:26,,60000
+26,Male,Other,ML Engineer,2.5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,50000
+39,Male,Berlin,Software Engineer,15,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,65000
+32,Male,Other,Data Scientist,6,Senior,unlimited,English,up to 10,02.12.2021 11:18:26,,62000
+36,Male,Berlin,DevOps,15,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+27,Female,Other,Backend Developer,3,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,81000
+32,Female,Berlin,Software Engineer,2,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,52000
+25,Female,Berlin,Software Engineer,4,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,85000
+37,Female,Berlin,Data Scientist,7,Head,unlimited,English,Nov-50,02.12.2021 11:18:26,,57000
+56,Male,Munich,Software Engineer,30,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,50800
+30,Male,Berlin,Data Scientist,4.5,Middle,unlimited,English,51-100,02.12.2021 11:18:26,,41160
+30,Female,Other,Software Engineer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,34000
+30,Female,Other,Software Engineer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+27,Male,Munich,QA Engineer,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+29,Male,Berlin,Software Engineer,6,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+24,Male,Berlin,Mobile Developer,3.5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,107685
+27,Male,Berlin,Other,0,Junior,unlimited,German,1000+,02.12.2021 11:18:26,,75000
+28,Male,Berlin,Frontend Developer,7,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,60000
+40,Male,Berlin,Other,14,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,72000
+32,Male,Berlin,Backend Developer,9,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+35,Female,Berlin,Product Manager,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,82000
+32,Male,Berlin,Software Engineer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+30,Male,Berlin,Backend Developer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,88000
+30,Male,Berlin,Backend Developer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+36,Male,Other,Mobile Developer,16,Lead,unlimited,English,51-100,02.12.2021 11:18:26,,45600
+33,Male,Berlin,Software Engineer,7,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,65000
+33,Male,Berlin,Other,15,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,93000
+32,Male,Munich,Software Engineer,13,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+34,Male,Berlin,Backend Developer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,78000
+54,Male,Munich,Software Engineer,25,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+28,Female,Berlin,Frontend Developer,5,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,70000
+29,Female,Berlin,Other,6,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,81000
+38,Male,Berlin,Data Scientist,6,Lead,unlimited,English,1000+,02.12.2021 11:18:26,,62000
+33,Male,Berlin,Software Engineer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,55000
+36,Male,Berlin,Backend Developer,12,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,60000
+36,Male,Berlin,Software Engineer,15,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,50000
+37,Male,Other,QA Engineer,15,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,86700
+36,Male,Munich,Software Engineer,15,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,75000
+35,Female,Munich,Other,1.5,Junior,unlimited,English,1000+,02.12.2021 11:18:26,,40000
+33,Male,Munich,Frontend Developer,10,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,65000
+33,Male,Other,Other,12,Lead,unlimited,German,101-1000,02.12.2021 11:18:26,,6000
+31,Male,Berlin,Backend Developer,7,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,89000
+36,Male,Other,Mobile Developer,14,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,51000
+31,Male,Berlin,Software Engineer,9,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,82000
+36,Male,Other,Software Engineer,10,Middle,unlimited,German,51-100,02.12.2021 11:18:26,,54000
+37,Male,Munich,DevOps,17,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,110000
+30,Male,Berlin,Other,3,Middle,unlimited,English,101-1000,02.12.2021 11:18:26,,34000
+30,Male,Berlin,Software Engineer,11,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,52000
+27,Male,Other,QA Engineer,5,Senior,Temporary contract,English,101-1000,02.12.2021 11:18:26,,210000
+33,Female,Munich,Software Engineer,10,Senior,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+35,Male,Other,Backend Developer,10,Lead,unlimited,English,Nov-50,02.12.2021 11:18:26,,101000
+26,Male,Berlin,Backend Developer,5,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,27977
+29,Male,Berlin,Software Engineer,9,Senior,unlimited,English,1000+,02.12.2021 11:18:26,,15600
+31,Male,Berlin,Backend Developer,4,Middle,unlimited,English,Nov-50,02.12.2021 11:18:26,,75000
+36,Male,Other,Other,8,Lead,unlimited,German,101-1000,02.12.2021 11:18:26,,70000
+36,Male,Berlin,Mobile Developer,10,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,50000
+29,Male,Munich,Data Scientist,6,Middle,unlimited,English,1000+,02.12.2021 11:18:26,,45000
+30,Female,Berlin,Frontend Developer,3,Lead,unlimited,English,101-1000,02.12.2021 11:18:26,,70000
+30,Male,Munich,Software Engineer,8,Senior,unlimited,English,51-100,02.12.2021 11:18:26,,65000
+29,Male,Berlin,Backend Developer,5,Senior,unlimited,English,101-1000,02.12.2021 11:18:26,,100000
